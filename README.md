@@ -4,4 +4,4 @@
 
 ### Também vou usalo-lo para realizar meu desafio Git/GitHub da plataforma [DIO](https://www.dio.me/).
 
-### Cada exercício vai estar como "código + nome". 
+### Cada exercício vai estar como "código + nome" e separados por pastas, exatamente como no Beecrowd.
